@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92775082922",
+    "project_id": "baitap-ktgk",
+    "storage_bucket": "baitap-ktgk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92775082922:android:b57abadc19df0535c399d3",
+        "android_client_info": {
+          "package_name": "com.example.baitap_ktgk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92775082922-trrt76kh2j7n7i5k6hklrhsc2aenh0iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWa7EKaadt5FOLfqwJ82H9VxTEAsZj1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92775082922-trrt76kh2j7n7i5k6hklrhsc2aenh0iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
